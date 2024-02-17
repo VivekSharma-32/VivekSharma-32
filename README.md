@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vivek.sharma1275@gmail.com**
 
-- ⚡ Fun fact **I love to learn new things**
+- ⚡ Fun fact **I love coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
