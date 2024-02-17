@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" width="100%"/>
+<img width="100%" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="viveksharma-32" />
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="viveksharma-32" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksharma-32&label=Profile%20views&color=0e75b6&style=flat" alt="viveksharma-32" /> </p>
 
 - 🌱 I’m currently learning **React Native, Laravel**
 
