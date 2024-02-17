@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
 <h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="coding" width="100%"/>
