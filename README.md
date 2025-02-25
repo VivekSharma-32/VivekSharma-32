@@ -78,8 +78,3 @@
 </p>
 
 ---
-
-## 🏆 GitHub Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viveksharma-32&theme=onedark&margin-w=5" alt="GitHub Achievements" />
-</p>
