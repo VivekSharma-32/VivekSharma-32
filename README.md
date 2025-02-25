@@ -59,11 +59,28 @@
 
 ---
 
-## 📊 Contribution Timeline:
+## 📊 Contribution Timeline (All Time)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksharma-32&theme=github-compact" alt="GitHub Activity Graph">
 </p>
 
+## 📊 Contribution Timeline (2023)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksharma-32&from=2023-01-01&to=2023-12-31&theme=github-compact" alt="GitHub Activity Graph">
+</p>
+
+## 📊 Contribution Timeline (2024)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksharma-32&from=2024-01-01&to=2024-12-31&theme=github-compact" alt="GitHub Activity Graph">
+</p>
+
+## 🌄 3D Contribution Skyline (Year-wise)
+[![GitHub Skyline](https://img.shields.io/badge/My_Skyline-View_3D_Contributions-orange?style=for-the-badge&logo=github)](https://skyline.github.com/viveksharma-32)
+
+## 📊 Yearly Contribution Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/yearly-contributions?username=viveksharma-32&theme=github_dark" alt="Yearly Contributions" />
+</p>
 ---
 
 ## 📊 Contribution Stats:
